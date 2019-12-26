@@ -1,0 +1,14 @@
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\bin\Debug\netcoreapp2.2\DotnetAPI Hello World.deps.json
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\bin\Debug\netcoreapp2.2\DotnetAPI Hello World.runtimeconfig.json
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\bin\Debug\netcoreapp2.2\DotnetAPI Hello World.runtimeconfig.dev.json
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\bin\Debug\netcoreapp2.2\DotnetAPI Hello World.dll
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\bin\Debug\netcoreapp2.2\DotnetAPI Hello World.pdb
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\obj\Debug\netcoreapp2.2\DotnetAPI Hello World.csprojAssemblyReference.cache
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\obj\Debug\netcoreapp2.2\DotnetAPI Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\obj\Debug\netcoreapp2.2\DotnetAPI Hello World.RazorAssemblyInfo.cache
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\obj\Debug\netcoreapp2.2\DotnetAPI Hello World.RazorAssemblyInfo.cs
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\obj\Debug\netcoreapp2.2\DotnetAPI Hello World.AssemblyInfoInputs.cache
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\obj\Debug\netcoreapp2.2\DotnetAPI Hello World.AssemblyInfo.cs
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\obj\Debug\netcoreapp2.2\DotnetAPI Hello World.RazorTargetAssemblyInfo.cache
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\obj\Debug\netcoreapp2.2\DotnetAPI Hello World.dll
+C:\Users\Ricardo Almonte\source\repos\DotnetAPI Hello World\DotnetAPI Hello World\obj\Debug\netcoreapp2.2\DotnetAPI Hello World.pdb
